@@ -1,0 +1,14 @@
+Azamgarh
+12
+7890
+1212
+yes
+yes
+
+mumbai
+12123
+32132
+1232
+no
+yes
+
