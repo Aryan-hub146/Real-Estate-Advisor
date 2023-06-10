@@ -10,7 +10,6 @@ typedef struct property{
      int area;
      char swim[100];
      char gard[100];
-
 }pro;
 pro p1;
 FILE *ptr = NULL;
